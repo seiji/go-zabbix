@@ -1,4 +1,4 @@
-package main
+package zabbix
 
 import (
 	"io/ioutil"
